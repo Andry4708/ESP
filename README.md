@@ -1,5 +1,5 @@
 # ESP
-ESP pump 
+расчет характеристик ЭЦН и их деградации от газосодержания 
 
 ## Pipesim_ESP_gas_degradation
 
